@@ -1,0 +1,1 @@
+# Analisando_dados_de_um_Dashboard_de_Vendas-no_Power_BI
